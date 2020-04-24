@@ -1,0 +1,15 @@
+{
+    "applicationName": {
+        "superAdmin": "saAutoApp",
+        "appAdmin": "aaAutoApp"
+  
+    },
+
+    "applicationOwnerName": {
+        "superAdmin": "Rajagopal Juturu",
+        "appAdmin": "Sagarika Mohanty"
+  
+    }
+
+  
+}

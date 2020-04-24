@@ -1,0 +1,17 @@
+{
+    "qaTester": {
+        "userName": "ksaheb"
+  
+    },
+
+    "appAdmin": {
+        "userName": "samohant"
+  
+    },
+    "superAdmin": {
+        "userName": "rjuturu"
+    },
+    "guest": {
+        "userName": "spu"
+}
+}
